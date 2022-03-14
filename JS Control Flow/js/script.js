@@ -1,16 +1,16 @@
 //IF STATEMENT
 
-let age = 16;
-let state = 'CA';
+let age = 18;
+let state = 'BD';
 
-if (state == 'CA') {
-    if (age >= 16) {
+if (state == 'BD') {
+    if (age >= 18) {
         console.log('You can drive');
     }
 }
 
 // OR
 
-if (state == 'CA' && age == 16) {
+if (state == 'BD' && age == 18) {
     console.log('You can drive');
 }
